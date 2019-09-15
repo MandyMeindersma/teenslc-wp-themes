@@ -1,3 +1,11 @@
+# Mandy's notes:
+- amazingcats is my test website
+- http://www.amazingcats.dev.cc/wp-admin/ - admin board
+- http://www.amazingcats.dev.cc - actual site
+
+
+
+
 # Teens Learning Code
 ## Create Your Own Theme with WordPress
 
